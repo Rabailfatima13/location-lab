@@ -1,4 +1,4 @@
-# LocationLab
+#LocationLab
 
 A developer toolkit for testing browser geolocation.
 
